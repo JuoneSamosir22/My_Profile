@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="registrasi">Registrasi</string>
+    <string-array name="gender">
+        <item>pilih jenis kelamin </item>
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
